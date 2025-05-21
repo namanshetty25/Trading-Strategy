@@ -18,9 +18,6 @@ This project implements and compares two rule-based trading strategies on the Ni
 
 ---
 
-## To run the code install these libraries:
-'''bash
-pip install -r requirements.txt
 
 
 
